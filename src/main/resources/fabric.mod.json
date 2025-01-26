@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "${mod_id}",
 	"version": "${version}",
-	"name": "${mod_name}",
+	"name": "NO${mod_name}",
 	"description": "Client side mod (addon) for PlasmoVoice, that scales player heads when they're talking.",
 	"authors": [
 		"${mod_authors}",
