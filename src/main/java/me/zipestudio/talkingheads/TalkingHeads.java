@@ -6,10 +6,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class TalkingHeads implements ModInitializer {
-	public static final String MOD_NAME = /*$ mod_name*/ "Talking Heads";
+	public static final String MOD_NAME = /*$ mod_name*/ "No Talking Heads";
 	public static final String MOD_ID = /*$ mod_id*/  "talking-heads";
 	public static final String MOD_VERSION = /*$ mod_version*/  "1.0.1";
-	public static final String MOD_AUTHORS = /*$ mod_authors*/  "ZipeStudio";
+	public static final String MOD_AUTHORS = /*$ mod_authors*/  "ZipeStudio, NetherX Team";
 
 
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
