@@ -5,7 +5,8 @@
 	"name": "${mod_name}",
 	"description": "Client side mod (addon) for PlasmoVoice, that scales player heads when they're talking.",
 	"authors": [
-		"${mod_authors}"
+		"${mod_authors}",
+		"NetherX"
 	],
 	"contact": {
 		"discord": "https://discord.com/users/339471364312530945",
